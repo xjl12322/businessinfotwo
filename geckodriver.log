@@ -1,0 +1,763 @@
+1537322079358	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537322079371	geckodriver	INFO	Listening on 127.0.0.1:51929
+1537322079600	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DsaPsXeFVDti"
+1537322145800	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537322145811	geckodriver	INFO	Listening on 127.0.0.1:52090
+1537322146199	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TPzwgRxd0uXo"
+1537322150420	Marionette	INFO	Listening on port 52094
+1537322150632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537322150668	Marionette	DEBUG	[6442450945] Frame script loaded
+1537322150751	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 20416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537322164113	Marionette	INFO	Stopped listening on port 52094
+[GPU 31568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537322353066	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537322353077	geckodriver	INFO	Listening on 127.0.0.1:52685
+1537322353533	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.33J4adyzpKvm"
+1537322356995	Marionette	INFO	Listening on port 52689
+1537322357433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537322357470	Marionette	DEBUG	[6442450945] Frame script loaded
+1537322357478	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 22652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537322362813	Marionette	INFO	Stopped listening on port 52689
+[GPU 8676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537322379959	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537322379971	geckodriver	INFO	Listening on 127.0.0.1:52763
+1537322380295	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.J6N1vKcfs0nP"
+1537322383180	Marionette	INFO	Listening on port 52767
+1537322383576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537322383614	Marionette	DEBUG	[6442450945] Frame script loaded
+1537322383623	Marionette	DEBUG	[6442450945] Frame script registered
+[Child 9316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537322388955	Marionette	INFO	Stopped listening on port 52767
+1537322512416	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537322512428	geckodriver	INFO	Listening on 127.0.0.1:53155
+1537322512927	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.072GkdhwqA83"
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Could not get a DXGI adapter
+1537322529932	Marionette	INFO	Listening on port 53159
+1537322530054	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1537322536205	Marionette	DEBUG	[6442450945] Frame script loaded
+1537322536213	Marionette	DEBUG	[6442450945] Frame script registered
+1537322538248	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537322538604	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1537322542484	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1537322542758	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1537322545767	Marionette	INFO	Stopped listening on port 53159
+[Child 22884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537322567842	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537322567854	geckodriver	INFO	Listening on 127.0.0.1:53298
+1537322569203	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kVnqMhQznqjv"
+1537322576934	Marionette	INFO	Listening on port 53310
+1537322576983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537322580304	Marionette	DEBUG	[6442450945] Frame script loaded
+1537322580311	Marionette	DEBUG	[6442450945] Frame script registered
+1537322582340	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537322582514	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1537322583408	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1537322583549	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1537322586561	Marionette	INFO	Stopped listening on port 53310
+[Child 18456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537322604683	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537322604695	geckodriver	INFO	Listening on 127.0.0.1:53403
+1537322604893	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.oWQLowfdoUCi"
+1537322607613	Marionette	INFO	Listening on port 53407
+1537322607649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537322607691	Marionette	DEBUG	[6442450945] Frame script loaded
+1537322607701	Marionette	DEBUG	[6442450945] Frame script registered
+1537322609729	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537322610224	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537322611044	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537322613274	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537322616283	Marionette	INFO	Stopped listening on port 53407
+[Child 3660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 19284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537323064916	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537323064928	geckodriver	INFO	Listening on 127.0.0.1:54481
+1537323065332	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZRds6ItcsnDJ"
+1537323073104	Marionette	INFO	Listening on port 54485
+1537323073593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537323073626	Marionette	DEBUG	[6442450945] Frame script loaded
+1537323073634	Marionette	DEBUG	[6442450945] Frame script registered
+1537323075662	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537323076280	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537323078403	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537323080831	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323082471	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537323082478	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323082697	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323082699	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323083479	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537323086127	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+[Child 28312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537323221716	Marionette	INFO	Stopped listening on port 54485
+[GPU 24824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+um/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537323165435	Marionette	INFO	Listening on port 54731
+1537323165902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537323165938	Marionette	DEBUG	[6442450945] Frame script loaded
+1537323165938	Marionette	DEBUG	[6442450945] Frame script registered
+[GFX1-]: Could not get a DXGI adapter
+1537323167963	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537323168537	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537323169267	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537323172432	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323176757	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537323176767	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323177708	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323177709	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323178497	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537323180133	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+[Child 30216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24628, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 24628, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 24628, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 24628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24628, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 24628, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 24628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1537323223779	Marionette	INFO	Stopped listening on port 54731
+1537323323764	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537323323776	geckodriver	INFO	Listening on 127.0.0.1:55289
+1537323324146	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.3Qhg267Q4nik"
+1537323327142	Marionette	INFO	Listening on port 55294
+1537323327433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537323327466	Marionette	DEBUG	[6442450945] Frame script loaded
+1537323327474	Marionette	DEBUG	[6442450945] Frame script registered
+1537323329499	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537323330021	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537323330762	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537323332860	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537323337167	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537323346210	Marionette	INFO	Stopped listening on port 55294
+[Child 17824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15620, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15620, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 24712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537325065124	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537325065136	geckodriver	INFO	Listening on 127.0.0.1:58281
+1537325065640	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cGoRh6MpizdO"
+1537325067907	Marionette	INFO	Listening on port 58285
+1537325068377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537325068412	Marionette	DEBUG	[6442450945] Frame script loaded
+1537325068419	Marionette	DEBUG	[6442450945] Frame script registered
+1537325070444	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537325070926	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537325071949	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537325074223	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325078458	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325078750	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325078750	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325079047	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537325079680	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+[Child 9196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537325613306	Marionette	INFO	Stopped listening on port 58285
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537325617249	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537325617261	geckodriver	INFO	Listening on 127.0.0.1:59485
+1537325617527	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ej5aJUVlwpqX"
+1537325620342	Marionette	INFO	Listening on port 59491
+1537325620764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537325620800	Marionette	DEBUG	[6442450945] Frame script loaded
+1537325620810	Marionette	DEBUG	[6442450945] Frame script registered
+1537325622836	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537325623350	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537325624198	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537325626485	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325630896	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+[Child 25584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537325944563	Marionette	INFO	Stopped listening on port 59491
+[GPU 30764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537325947005	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537325947016	geckodriver	INFO	Listening on 127.0.0.1:60169
+1537325947425	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yklDVLRDVSAj"
+1537325953159	Marionette	INFO	Listening on port 60173
+1537325953211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537325953247	Marionette	DEBUG	[6442450945] Frame script loaded
+1537325953257	Marionette	DEBUG	[6442450945] Frame script registered
+1537325955317	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537325955836	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537325956645	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537325959010	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325963209	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325963504	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325963505	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537325963825	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537325964476	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537326276461	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 22312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x17002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+[Child 3928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537327374355	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537327374385	geckodriver	INFO	Listening on 127.0.0.1:50061
+1537327374855	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.abCnbktsPVUl"
+[Parent 3712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537327405581	Marionette	INFO	Listening on port 50065
+1537327406181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537327406224	Marionette	DEBUG	[4294967297] Frame script loaded
+1537327406233	Marionette	DEBUG	[4294967297] Frame script registered
+1537327408396	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537327409060	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537327410215	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537327412554	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537327416843	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537327417084	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537327417085	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537327417395	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537327418031	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537327837985	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 3712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3712, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1537335387734	Marionette	INFO	Stopped listening on port 50065
+[GPU 8620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537335431846	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537335431857	geckodriver	INFO	Listening on 127.0.0.1:57075
+1537335432116	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kdSP1owTq2ko"
+1537335469870	Marionette	INFO	Listening on port 57079
+1537335470161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537335470325	Marionette	DEBUG	[4294967297] Frame script loaded
+1537335470423	Marionette	DEBUG	[4294967297] Frame script registered
+1537335472806	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537335474029	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537335478155	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537335482233	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537335487306	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537335487706	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537335487707	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537335488104	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537335488620	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537335817044	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 240: TypeError: this._builder is undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x49000B,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+[Parent 9760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537335950875	Marionette	INFO	Stopped listening on port 57079
+[GPU 11192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537336005675	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537336005785	geckodriver	INFO	Listening on 127.0.0.1:58094
+1537336005981	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4kUJRVJlaw6d"
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[10472, Chrome_ChildThread] WARNING: failed to create pipe: 2: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[10472, Chrome_ChildThread] WARNING: Unable to create pipe named "9956.0.1340890815\1933475975" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Closed channel: cannot send/recv
+
+[GFX1-]: Could not get a DXGI adapter
+1537336025794	Marionette	INFO	Listening on port 58098
+1537336025868	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1537336031241	Marionette	DEBUG	[6442450945] Frame script loaded
+1537336031249	Marionette	DEBUG	[6442450945] Frame script registered
+1537336033343	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537336035193	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537336035949	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537336040986	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537336045203	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537336045465	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537336045466	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537336045770	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537336046407	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537336050885	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537336546859	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537336604041	Marionette	INFO	Stopped listening on port 58098
+1537336756404	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537336756414	geckodriver	INFO	Listening on 127.0.0.1:59401
+1537336756556	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.NEPdgR3d9e5b"
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GPU 10592, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[GPU 10592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+1537336772049	Marionette	INFO	Listening on port 59407
+1537336772496	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1537336776894	Marionette	DEBUG	[4294967297] Frame script loaded
+1537336776902	Marionette	DEBUG	[4294967297] Frame script registered
+1537336778926	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537336781186	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537336781954	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537336784247	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537336788465	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537336788868	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537336788869	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537336789159	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537336790343	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537336794453	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537336795861	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537336795862	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537336796166	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search?key=%E6%96%B0%E7%BD%91%E6%95%B0%E7%A0%81
+1537336796808	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/search?key=%E6%96%B0%E7%BD%91%E6%95%B0%E7%A0%81
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122238368-3, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122238368-3, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122238368-3, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122238368-3, line 74: unreachable code after return statement
+[GFX1-]: Could not get a DXGI adapter
+[Child 9356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122238368-3, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122238368-3, line 74: unreachable code after return statement
+[GFX1-]: Could not get a DXGI adapter
+[Parent 8824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122238368-3, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122238368-3, line 74: unreachable code after return statement
+[GFX1-]: Could not get a DXGI adapter
+[Child 9644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537337532968	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+[Parent 8824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8824, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 3396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537406385974	Marionette	INFO	Stopped listening on port 59407
+1537406394476	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537406394492	geckodriver	INFO	Listening on 127.0.0.1:57266
+1537406395015	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7SW1ebiwte43"
+1537406401707	Marionette	INFO	Listening on port 57270
+1537406401736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537406401771	Marionette	DEBUG	[4294967297] Frame script loaded
+1537406401779	Marionette	DEBUG	[4294967297] Frame script registered
+1537406403823	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537406404269	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537406405049	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537406407274	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537406411554	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537406412066	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537406412067	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.tianyancha.com/login?from=https%3A%2F%2Fwww.tianyancha.com%2Fsearch%3Fkey%3D%25E8%2589%25B2%25E7%25B2%2589
+1537406412367	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+1537406413004	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.tianyancha.com/search?key=%E8%89%B2%E7%B2%89
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+[Parent 9756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537406708075	Marionette	INFO	Stopped listening on port 57270
+[GPU 2596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537406717139	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537406717151	geckodriver	INFO	Listening on 127.0.0.1:58045
+1537406717647	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GgkmtMCqfz1n"
+1537406720067	Marionette	INFO	Listening on port 58051
+1537406720366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537406720401	Marionette	DEBUG	[6442450945] Frame script loaded
+1537406720408	Marionette	DEBUG	[6442450945] Frame script registered
+1537406722430	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537406722941	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537406723646	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537406726562	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537406730887	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537406732096	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537406732097	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537406732404	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search
+1537406733113	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/search
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537406885279	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 14004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14004, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 13524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537425507202	Marionette	INFO	Stopped listening on port 58051
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537493614621	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537493614658	geckodriver	INFO	Listening on 127.0.0.1:54675
+1537493614777	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.dhwRCI2MqrZA"
+[Parent 17444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537493641841	Marionette	INFO	Listening on port 54682
+1537493642160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537493642224	Marionette	DEBUG	[6442450945] Frame script loaded
+1537493642343	Marionette	DEBUG	[6442450945] Frame script registered
+1537493644861	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537493645373	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537493646481	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537493648918	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537493653140	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537493653452	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537493653453	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537493653859	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search
+1537493654380	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/search
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+[Parent 17444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537494320536	Marionette	INFO	Stopped listening on port 54682
+[GPU 16740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537494330575	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537494330588	geckodriver	INFO	Listening on 127.0.0.1:56535
+1537494330672	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZpP01ZxvDVI2"
+1537494334904	Marionette	INFO	Listening on port 56539
+1537494335068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537494335109	Marionette	DEBUG	[6442450945] Frame script loaded
+1537494335120	Marionette	DEBUG	[6442450945] Frame script registered
+1537494337140	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537494337533	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537494338403	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537494340775	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537494344967	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537494345237	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537494345237	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537494345534	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search
+1537494346157	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/search
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537494365942	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 15420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537494483599	Marionette	INFO	Stopped listening on port 56539
+[GPU 17060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537494706493	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1537494706505	geckodriver	INFO	Listening on 127.0.0.1:57299
+1537494706783	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4EcVVWdz5k2k"
+1537494713127	Marionette	INFO	Listening on port 57305
+1537494713316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537494713352	Marionette	DEBUG	[6442450945] Frame script loaded
+1537494713360	Marionette	DEBUG	[6442450945] Frame script registered
+1537494715379	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537494716843	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537494717758	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1537494721243	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537494725483	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537494725774	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537494725775	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1537494726055	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search
+1537494726690	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/search
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript error: chrome://browser/content/utilityOverlay.js, line 264: Error: Required argument triggeringPrincipal missing within openUILinkIn
+JavaScript error: chrome://browser/content/utilityOverlay.js, line 264: Error: Required argument triggeringPrincipal missing within openUILinkIn
+JavaScript error: chrome://browser/content/utilityOverlay.js, line 264: Error: Required argument triggeringPrincipal missing within openUILinkIn
+1537496382268	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode411"
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode486"
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode487"
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode488"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460015,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+[Child 16592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538040760935	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1538040761012	geckodriver	INFO	Listening on 127.0.0.1:62886
+1538040761157	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8Od54BPT01dv"
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1538040817159	Marionette	INFO	Listening on port 62890
+1538040817964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538040818034	Marionette	DEBUG	[6442450945] Frame script loaded
+1538040818875	Marionette	DEBUG	[6442450945] Frame script registered
+1538040822420	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538040824762	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+[GFX1-]: Could not get a DXGI adapter
+1538040827581	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1538040829710	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1538040834073	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1538040834390	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1538040834391	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1538040834801	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/search
+1538040835452	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/search
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+[Parent 17504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1538041268895	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538041268895	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1538041268895	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538041268895	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1538041268896	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Child 26824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538041269458	Marionette	INFO	Stopped listening on port 62890
+1538120050616	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1538120050635	geckodriver	INFO	Listening on 127.0.0.1:56968
+1538120051445	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7Sc4fH2oDBDl"
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1538120094574	Marionette	INFO	Listening on port 56977
+1538120096707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538120097008	Marionette	DEBUG	[6442450945] Frame script loaded
+1538120098140	Marionette	DEBUG	[6442450945] Frame script registered
+1538120104811	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538120108233	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538120118369	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+1538120122724	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tianyancha.com/login?from=https://www.tianyancha.com/search?
+1538120127312	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-123487620-1, line 74: unreachable code after return statement
+[Child 28276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538120148071	Marionette	INFO	Stopped listening on port 56977

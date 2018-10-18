@@ -1,0 +1,5 @@
+[2018-10-09 09:53:46]-long.py-DEBUG : 一个debug信息
+[2018-10-09 09:53:46]-long.py-INFO : 一个info信息
+[2018-10-09 09:53:46]-long.py-WARNING : 一个warning信息
+[2018-10-09 09:53:46]-long.py-ERROR : 一个error信息
+[2018-10-09 09:53:46]-long.py-CRITICAL : 一个致命critical信息
