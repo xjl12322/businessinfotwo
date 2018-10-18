@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a030e137-22fe-4f03-a244-79f3abbce177" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/businessinfotwo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/baiduqiye.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/baiduqiye2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/baiduqiye_insert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bloomfilter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/baiduqiye_insert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/middlewares.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/spiders/baidu_business.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/spiders/business_17ab.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/spiders/business_info_chuangyebang.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/spiders/businessinfospider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/utils_common/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/utils_common/bloomfilter2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/utils_common/ip_random.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/utils_common/log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/utils_common/long.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/utils_common/md5_use.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/businessinfotwo/utils_common/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ip.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ll.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/long.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/long.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main_baiduqiye.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyx.log" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ll.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -277,11 +236,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="401" />
-    <option name="y" value="61" />
-    <option name="width" value="949" />
-    <option name="height" value="756" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-40" />
+    <option name="y" value="40" />
+    <option name="width" value="1272" />
+    <option name="height" value="753" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -466,9 +425,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-40" y="40" width="1272" height="753" extended-state="1" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22107969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28382838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22873083" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -476,7 +435,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.73044693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.9291737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76987445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
